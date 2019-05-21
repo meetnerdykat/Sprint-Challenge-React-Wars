@@ -1,0 +1,11 @@
+.card-body {
+  background-image: linear-gradient(
+    to right top,
+    rgb(5, 25, 55),
+    rgb(93, 45, 96),
+    rgb(182, 63, 97),
+    rgb(238, 117, 65),
+    rgb(235, 159, 18)
+  ) !important;
+  opacity: 0.8;
+}
